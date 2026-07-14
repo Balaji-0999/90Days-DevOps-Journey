@@ -9,7 +9,10 @@ Learned how to create files, read files, understand Linux permissions, modify pe
 - devops.txt
 - notes.txt
 - script.sh
+<<<<<<< HEAD
 - project/
+=======
+>>>>>>> 6a36550 (Day 10: Linux file permissions and file operations)
 
 ## Permission Changes
 
@@ -40,4 +43,8 @@ mkdir
 - The `chmod` command changes file and directory permissions.
 - Executable permission is required to run shell scripts.
 - Read-only files cannot be modified without write permission.
+<<<<<<< HEAD
 - File permissions are essential for securing Linux systems..
+=======
+- File permissions are essential for securing Linux systems.
+>>>>>>> 6a36550 (Day 10: Linux file permissions and file operations)

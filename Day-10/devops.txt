@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 "hello dosto"
+=======
+
+hello dosto
+Testing
+>>>>>>> 6a36550 (Day 10: Linux file permissions and file operations)
