@@ -30,4 +30,4 @@
 
 - Functions simplify large automation scripts.
 - Strict mode prevents failed or partial deployments.
-- Modular scripts are easier to debug, update, and reuse across multiple servers.
+- Modular scripts are easier to debug, update, and reuse across multiple servers..
