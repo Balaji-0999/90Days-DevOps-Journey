@@ -292,4 +292,4 @@ Networking knowledge is essential for:
 - Verifying service availability
 - Monitoring open ports
 - Managing cloud infrastructure
-- Supporting Docker and Kubernetes networking
+- Supporting Docker and Kubernetes networking.
