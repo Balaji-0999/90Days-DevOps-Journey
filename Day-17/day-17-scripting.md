@@ -34,4 +34,4 @@
 - Loops automate repetitive work across multiple servers.
 - Arguments make scripts reusable and flexible.
 - Error handling prevents automation failures and makes scripts safer.
-- Package installation scripts simplify server provisioning and configuration.
+- Package installation scripts simplify server provisioning and configuration..
