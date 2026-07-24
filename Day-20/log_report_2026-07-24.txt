@@ -1,0 +1,23 @@
+===== LOG ANALYSIS REPORT =====
+Date: 2026-07-24
+Log File: sample_log.log
+Total Lines: 67
+Total Errors: 30
+==============================
+Critical Events:
+8:2026-07-24 CRITICAL Disk Space Low
+10:2026-07-24 CRITICAL Database Connection Lost
+21:2026-07-24 CRITICAL Disk Space Low
+23:2026-07-24 CRITICAL Database Connection Lost
+35:2024-06-22 CRITICAL Disk Space Low
+37:2024-08-11 CRITICAL Database Connection Lost
+46:2026-01-20 CRITICAL Memory Usage Exceeded
+55:2024-06-22 CRITICAL Disk Space Low
+57:2024-08-11 CRITICAL Database Connection Lost
+66:2026-01-20 CRITICAL Memory Usage Exceeded
+==============================
+Top 5 Error Messages:
+     12 timed out
+      8 not found
+      4 denied
+      2 Certificate Expired
