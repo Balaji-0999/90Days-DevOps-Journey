@@ -24,4 +24,4 @@
 
 - Shell scripting automates repetitive Linux tasks.
 - Variables make scripts reusable and easier to maintain.
-- Conditional statements (if-else) allow scripts to make decisions based on user input or system state.
+- Conditional statements (if-else) allow scripts to make decisions based on user input or system state.`
