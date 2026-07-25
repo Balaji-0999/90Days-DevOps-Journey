@@ -49,4 +49,4 @@ resize2fs
 
 ## Real-world Use Case
 
-LVM is widely used in production servers because storage can be increased without reinstalling the operating system or recreating partitions. This makes storage management flexible and reduces downtime.
+LVM is widely used in production servers because storage can be increased without reinstalling the operating system or recreating partitions. This makes storage management flexible and reduces downtime..
