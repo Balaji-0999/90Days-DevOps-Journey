@@ -63,4 +63,4 @@ cat ~/nginx-logs.txt
 
 ## Why This Matters for DevOps
 
-Cloud servers are used to host applications in production. A DevOps engineer must know how to connect to a server, manage services, verify deployments, analyze logs, and troubleshoot issues quickly. These are essential skills for maintaining reliable and secure applications.
+Cloud servers are used to host applications in production. A DevOps engineer must know how to connect to a server, manage services, verify deployments, analyze logs, and troubleshoot issues quickly. These are essential skills for maintaining reliable and secure applications..
