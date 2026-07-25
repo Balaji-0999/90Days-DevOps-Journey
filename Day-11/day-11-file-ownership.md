@@ -45,4 +45,4 @@ touch
 
 ## Real-World DevOps Use
 
-Proper ownership ensures applications, services, containers, and shared directories can securely access the files they need without granting unnecessary privileges..
+Proper ownership ensures applications, services, containers, and shared directories can securely access the files they need without granting unnecessary privileges.
