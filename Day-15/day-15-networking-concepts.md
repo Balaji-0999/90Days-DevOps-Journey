@@ -61,7 +61,7 @@ Example:
 192.168.1.10
 ```
 
----
+----
 
 ## Public IP vs Private IP
 
