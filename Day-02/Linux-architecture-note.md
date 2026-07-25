@@ -48,4 +48,4 @@
 - Started a background process using `sleep 300 &`.
 - Viewed process states using `ps`.
 - Checked running services using `systemctl`.
-- Viewed logs using `journalctl`.
+- Viewed logs using `journalctl.
