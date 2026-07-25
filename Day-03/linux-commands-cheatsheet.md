@@ -10,6 +10,6 @@
 - pwd - Print current directory
 
 ## Networking
-- ping - Check network connectivity
-- ip addr - Show IP address
-- curl - Send HTTP requests
+-- ping - Check network connectivity
+-- ip addr - Show IP address
+-- curl - Send HTTP requests
