@@ -40,4 +40,4 @@ mkdir
 - The `chmod` command changes file and directory permissions.
 - Executable permission is required to run shell scripts.
 - Read-only files cannot be modified without write permission.
-- File permissions are essential for securing Linux systems.
+- File permissions are essential for securing Linux systems..
