@@ -61,7 +61,7 @@ I found the ubuntu user's home directory.
 
 Managing user files and personal data.
 
----
+----
 
 ## 3. /root
 
