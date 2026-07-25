@@ -21,4 +21,4 @@
    - Displays recent logs for troubleshooting.
 
 5. df -h
-   - Checks disk usage.
+   - Checks disk usage..
