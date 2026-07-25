@@ -168,7 +168,7 @@ Successfully accessed the default Nginx web page.
 - Understood how systemd manages services.
 - Learned how to inspect service logs using journalctl.
 - Practiced basic Linux troubleshooting.
-- Successfully verified the Nginx web server from a browser.
+- Successfully verified the Nginx web server from a browser..
 
 ---
 
