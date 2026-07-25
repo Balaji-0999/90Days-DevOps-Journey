@@ -38,4 +38,4 @@ Built a Bash-based Log Analyzer that automates log inspection and generates a su
 
 ## Why It Matters in DevOps
 
-Log analysis helps engineers quickly identify failures, detect critical issues, reduce troubleshooting time, and maintain reliable production environments.
+Log analysis helps engineers quickly identify failures, detect critical issues, reduce troubleshooting time, and maintain reliable production environments..
