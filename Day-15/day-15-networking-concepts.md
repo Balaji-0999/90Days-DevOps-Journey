@@ -242,4 +242,4 @@ Understanding DNS, IP addresses, subnets, and ports helps troubleshoot issues su
 - Incorrect firewall or security group rules
 - Services listening on the wrong ports
 
-A strong networking foundation enables faster troubleshooting and more reliable system managementi.
+A strong networking foundation enables faster troubleshooting and more reliable system managementi..
