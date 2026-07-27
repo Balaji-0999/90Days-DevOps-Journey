@@ -1,0 +1,8 @@
+raj:developer:26
+amit:devops:28
+rohit:cloud:30
+root:x:0:0:root:/root:/bin/bash
+ubuntu:x:1000:1000:Ubuntu:/home/ubuntu:/bin/bash
+nginx:x:999:999:Nginx:/var/www:/usr/sbin/nologin
+jenkins:x:1001:1001:Jenkins:/var/lib/jenkins:/bin/bash
+EOF`
