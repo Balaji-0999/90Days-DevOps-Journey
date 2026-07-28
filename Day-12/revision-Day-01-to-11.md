@@ -136,7 +136,7 @@ I always verify the changes using:
 ls -l project.txt
 ```
 
----
+----
 
 ## 4. What will I improve during the next three days?
 
