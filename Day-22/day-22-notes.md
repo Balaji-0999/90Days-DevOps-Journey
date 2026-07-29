@@ -137,7 +137,7 @@ The `.git` folder is Git's internal database. It contains all the information re
 +-------------------+
 ```
 
----
+----
 
 ## Key Takeaways
 
