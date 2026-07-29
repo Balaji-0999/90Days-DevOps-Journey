@@ -4,7 +4,7 @@
 
 Today I learned the core networking concepts that every DevOps Engineer should know. I understood how domain names are resolved into IP addresses, how IP addressing works, why subnetting is used, and how ports allow multiple services to run on a single server.
 
-----
+---
 
 # Task 1 – DNS (How Names Become IPs)
 
