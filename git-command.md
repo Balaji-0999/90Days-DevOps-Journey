@@ -19,7 +19,7 @@ Git is a distributed version control system used to track changes in source code
 | `git config user.email "your-email@example.com"`          | Set the Git email only for the current repository.    |
 | `git config --list                                        | Display all active Git configurations.                |
                                                             
----
+----
 
 ## Repository Management Commands
 
@@ -36,7 +36,8 @@ Git is a distributed version control system used to track changes in source code
 
 ## Working with Files
 
-| Command                   | Purpose                              |
+| Command                   | Purpose                              :wq
+|
 | ------------------------- | ------------------------------------ |
 | `git add .`               | Add all changes to the staging area. |
 | `git commit -m "message"` | Create a new commit with a message.  |
