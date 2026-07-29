@@ -392,7 +392,7 @@ git pull
 | `git fetch`                    | Download changes only          |
 | `git clone`                    | Download a repository          |
 
----
+----
 
 ## Final Note
 
