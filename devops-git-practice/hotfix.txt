@@ -1,5 +1,0 @@
-First Change
-<<<<<<< HEAD
-Second Change
-=======
->>>>>>> 453efcf (First hotfix)
