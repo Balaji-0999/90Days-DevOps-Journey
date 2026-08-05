@@ -59,7 +59,7 @@ Saturday & Sunday:
 - Focus on understanding concepts instead of memorizing commands.
 - Never skip learning two days in a row.
 
----
+----
 
 ## My Target After 90 Days
 
