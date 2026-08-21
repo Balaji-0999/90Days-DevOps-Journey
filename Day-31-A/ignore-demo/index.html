@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day 31 - Docker Build Cache</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #0f172a, #172554, #0c4a6e);
+            color: #ffffff;
+        }
+
+        .card {
+            width: 100%;
+            max-width: 700px;
+            padding: 50px 35px;
+            text-align: center;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            border-radius: 25px;
+            background: rgba(255, 255, 255, 0.08);
+            backdrop-filter: blur(15px);
+            box-shadow: 0 25px 70px rgba(0, 0, 0, 0.4);
+        }
+
+        .icon {
+            font-size: 65px;
+            margin-bottom: 20px;
+        }
+
+        .badge {
+            display: inline-block;
+            padding: 8px 18px;
+            margin-bottom: 20px;
+            border: 1px solid #38bdf8;
+            border-radius: 50px;
+            color: #7dd3fc;
+            font-size: 13px;
+            font-weight: bold;
+            letter-spacing: 1.5px;
+        }
+
+        h1 {
+            font-size: clamp(30px, 6vw, 50px);
+            line-height: 1.15;
+            margin-bottom: 20px;
+        }
+
+        h1 span {
+            color: #38bdf8;
+        }
+
+        p {
+            color: #cbd5e1;
+            font-size: 18px;
+            line-height: 1.7;
+        }
+
+        .cache-box {
+            margin-top: 30px;
+            padding: 20px;
+            border: 1px solid rgba(56, 189, 248, 0.4);
+            border-radius: 16px;
+            background: rgba(15, 23, 42, 0.5);
+            text-align: left;
+        }
+
+        .cache-box h2 {
+            color: #7dd3fc;
+            margin-bottom: 10px;
+            font-size: 20px;
+        }
+
+        .cache-box p {
+            font-size: 15px;
+            color: #cbd5e1;
+        }
+
+        .footer {
+            margin-top: 30px;
+            color: #94a3b8;
+            font-size: 14px;
+        }
+
+        @media (max-width: 500px) {
+            .card {
+                padding: 35px 20px;
+            }
+
+            .icon {
+                font-size: 50px;
+            }
+
+            p {
+                font-size: 16px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <main class="card">
+
+        <div class="icon">🐳</div>
+
+        <div class="badge">90 DAYS OF DEVOPS</div>
+
+        <h1>
+            Day 31 - <span>Docker Build Cache</span>
+        </h1>
+
+        <p>
+            Learning how Docker reuses previous build layers
+            to make image builds faster and more efficient.
+        </p>
+
+        <section class="cache-box">
+            <h2>⚡ Why Build Cache Matters</h2>
+            <p>
+                Docker can reuse unchanged layers instead of rebuilding
+                everything from scratch. Keeping frequently changing
+                instructions near the end of the Dockerfile can reduce
+                build time.
+            </p>
+        </section>
+
+        <div class="footer">
+            Learn • Build • Optimize • Repeat 🚀
+        </div>
+
+    </main>
+
+</body>
+</html>
